@@ -1,0 +1,10 @@
+.app {
+  width: 100%;
+
+  .backage-image {
+    width: 200px;
+    height: 200px;
+
+    background-image: url("./assets/icon.png");
+  }
+}
